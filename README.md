@@ -5,7 +5,8 @@ Find our [full documentation here](https://docs.blocknative.com/).
 
 Looking to start a discussion or feature request:
  - [Wallet-Boost](https://github.com/blocknative/products/discussions/1)
- - [Feature Requests]
+ - [Feature Requests](https://github.com/blocknative/products/discussions/categories/general)
+ - [Ideas](https://github.com/blocknative/products/discussions/categories/ideas)
 
 
 Looking for our public repos?
