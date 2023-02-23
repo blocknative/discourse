@@ -4,7 +4,7 @@ Welcome to Blocknative! Check out our products and let us know if you have any f
 Find our [full documentation here](https://docs.blocknative.com/).
 
 Looking to start a discussion or feature request:
- - [Wallet-Boost](https://github.com/blocknative/Wallet-Boost/discussions)
+ - [Wallet-Boost](https://github.com/blocknative/products/discussions/1)
  - [Feature Requests]
 
 
