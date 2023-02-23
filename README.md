@@ -1,5 +1,7 @@
 # Wallet-Boost
-Wallet-Boost helps end-users take control of MEV outcomes and participate in the MEV market. The below design spec serves as an initial draft of our proposed Wallet-Boost solution. Please comment with any and all feedback and questions!
+Wallet-Boost helps end-users take control of MEV outcomes and participate in the MEV market. The below design spec serves as an initial draft of our proposed Wallet-Boost solution. 
+
+Please comment with any and all feedback and questions!
 
 
 # Intro: Wallet-Boost
