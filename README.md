@@ -1,5 +1,5 @@
 # Blocknative Discourse
-Welcome to Blocknative! Check out our products and let us know if you have any feature requests or feedback!
+Welcome to Blocknative! Blocknative builds blocks and provides real-time infrastructure to access mempool data to help validators, traders, dapps and wallets optimize outcomes. We are actively researching and developing solutions that help simplify, democratize, and decentralize every aspect of the transaction lifecycle. Check out our products and let us know if you have any feature requests or feedback!
 
 Find our [full documentation here](https://docs.blocknative.com/).
 
